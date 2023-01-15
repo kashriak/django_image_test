@@ -1,0 +1,4 @@
+imageapp/__pycache__/
+imageapp/migrations/__pycache__/
+image_test/__pycache__/
+media_root/images/
